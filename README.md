@@ -1,2 +1,2 @@
 # SQL-Interview-Questions
- A collection of sql questions ranging from easy to hard difficulty asked across several companies
+ A collection of sql questions ranging from easy to hard difficulty asked across several companies. The 'Query Problems' folder contains the questions and the schema for the dataset while the 'Query Solutions' folder consists of the solutions to the problems. Try solving problems on your own, which gives you the freedom to shape your own unique solution which might even be better than the solution given!
